@@ -37,3 +37,6 @@ The assessment identified the following critical risks:
 - Ransomware — 20
 
 These risks require urgent attention because they combine a significant likelihood of occurrence with potentially severe business impact.
+
+<img width="1312" height="1199" alt="risk-matrix png" src="https://github.com/user-attachments/assets/ddd0e847-3f3f-4bec-9496-006fe49718d8" />
+
