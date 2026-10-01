@@ -36,8 +36,8 @@ This portfolio demonstrates my ability to:
 
 | Project | Category | Status |
 |---------|----------|--------|
-| Security Risk Assessment – FinTrust Financial Services | Risk Assessment | 🚧 In Progress |
-| Incident Response Plan | Incident Response | ⏳ Planned |
+| Security Risk Assessment – FinTrust Financial Services | Risk Assessment | Completed ✅ |
+| Incident Response Plan | Incident Response | 🚧 In Progress |
 | Password Policy | Security Policy | ⏳ Planned |
 | Risk Register | GRC | ⏳ Planned |
 | Vendor Risk Assessment | Third-Party Risk | ⏳ Planned |
