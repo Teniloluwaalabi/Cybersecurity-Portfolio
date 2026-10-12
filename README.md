@@ -38,8 +38,8 @@ This portfolio demonstrates my ability to:
 |---------|----------|--------|
 | Security Risk Assessment – FinTrust Financial Services | Risk Assessment | Completed ✅ |
 | Incident Response Plan | Incident Response | Completed ✅ |
-| GRC & Compliance Assessment | Governance · Risk · Compliance| 🚧 In Progress |
-| Vendor Risk Assessment | Third-Party Risk | ⏳ Planned |
+| GRC & Compliance Assessment | Governance · Risk · Compliance| Completed ✅ |
+| Vendor Risk Assessment | Third-Party Risk | 🚧 In Progress |
 | Acceptable Use Policy | Security Governance | ⏳ Planned |
 | Access Control Audit | IAM | ⏳ Planned |
 | Security Awareness Program | Security Awareness | ⏳ Planned |
